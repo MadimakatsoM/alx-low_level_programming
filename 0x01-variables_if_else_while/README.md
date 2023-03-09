@@ -1,1 +1,1 @@
-0x01 - Variables, If, Else, While Project by @PeterOpanga
+0x01 - Variables, If, Else, While 
