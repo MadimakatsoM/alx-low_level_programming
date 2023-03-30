@@ -48,7 +48,7 @@ Specifier characters at the end define the type and the interpretation of its co
 
 ## Install
 To install execute in terminal
-git clone https://github.com/Ouyei/printf
+git clone https://github.com/KgaogeloMangwa/printf.git
 
 ## Compilation
 
@@ -68,6 +68,6 @@ git clone https://github.com/Ouyei/printf
 
 # Flowchart
 
-![Flowchart](https://raw.githubusercontent.com/Ouyei/printf/main/printf_flowchart.png)
+![Flowchart](https://github.com/KgaogeloMangwa/printf/)
 
-Created by [Oscar Bedat](https://github.com/Ouyei/) & [Bruno Rodríguez](https://github.com/brunonra-dev/).
+Created by [Madimakatso Molise](https://github.com/MadimakatsoM) & [KgaogeloMangwa](https://github.com/KgaogeloMangwa/).
