@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/madimakatso/Desktop/printf-main",
-      "program": "/home/madimakatso/Desktop/printf-main/build/Debug/outDebug",
+      "cwd": "/home/madimakatso/alx-low_level_programming/0x0B-malloc_free",
+      "program": "/home/madimakatso/alx-low_level_programming/0x0B-malloc_free/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
