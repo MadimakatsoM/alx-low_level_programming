@@ -23,14 +23,7 @@
 // 	return (dec_val);
 // }
 
-// The above code is the original code I did.
-// Follow these steps to change the other code to the one simmilar below
-// Use ChatGPT and ask these questions:
-// Rewrite the following code without changing its functionality.
-// Rename all variables(just make sure they correspond)
-// Add inline comments
-// Check if code adheres to Betty Style guidlines
-// Then copy  and paste the code you want to be changed
+//
 
 #include "main.h"
 
